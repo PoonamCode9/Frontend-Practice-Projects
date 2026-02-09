@@ -5,7 +5,7 @@ A collection of frontend projects created to practice **HTML, CSS, and JavaScrip
 ## Projects
 - **Sidebar Navigation UI** - HTML, CSS
 - **Simon Game** - HTML, CSS, JavaScript
-- **Spotify Clone** - HTML, CSS, Bootstrap
+- **Spotify Clone** - HTML, CSS
 - **To-Do List** - HTML, CSS, JavaScript
 
 ## Tech Stack
