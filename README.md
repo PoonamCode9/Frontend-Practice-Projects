@@ -9,7 +9,7 @@ A collection of frontend projects created to practice **HTML, CSS, and JavaScrip
 - **To-Do List** - HTML, CSS, JavaScript
 
 ## Tech Stack
-HTML . CSS . JavaScript . Bootstrap
+HTML . CSS . JavaScript 
 
 ## Author
 Poonam Kumari
