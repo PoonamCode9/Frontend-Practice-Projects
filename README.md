@@ -1,6 +1,6 @@
 # Frontend-Practice-Projects
 
-A collection of frontend projects created to practice **HTML, CSS, and JavaScript**.
+A collection of frontend projects created to practice **HTML, CSS, and JavaScript**...
 
 ## Projects
 - **Sidebar Navigation UI** - HTML, CSS
